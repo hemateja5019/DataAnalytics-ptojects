@@ -1,1 +1,3 @@
 Hello world !!teja
+take input from user
+add the values
